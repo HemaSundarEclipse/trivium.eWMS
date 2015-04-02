@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Test Default test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : common.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : common.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : TestExtendsCommon.sample]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : TestExtendsCommon.sample]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : common.afterClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : common.afterClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing test Default test]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21159" started-at="2014-11-27T13:28:54Z" finished-at="2014-11-27T13:29:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21159" started-at="2014-11-27T13:28:54Z" finished-at="2014-11-27T13:29:15Z">
+      <class name="eventListeners.TestExtendsCommon">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:eventListeners.TestExtendsCommon@56cbfb61]" name="beforeClass" is-config="true" duration-ms="16145" started-at="2014-11-27T18:58:54Z" finished-at="2014-11-27T18:59:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : common.beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="sample()[pri:0, instance:eventListeners.TestExtendsCommon@56cbfb61]" name="sample" duration-ms="4420" started-at="2014-11-27T18:59:10Z" finished-at="2014-11-27T18:59:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : TestExtendsCommon.sample]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:eventListeners.TestExtendsCommon@56cbfb61]" name="afterClass" is-config="true" duration-ms="329" started-at="2014-11-27T18:59:15Z" finished-at="2014-11-27T18:59:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : common.afterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- eventListeners.TestExtendsCommon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

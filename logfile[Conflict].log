@@ -1,0 +1,9 @@
+2014-11-27 18:58:54,443 INFO  [Log] About to begin executing Test Default test 
+2014-11-27 18:58:54,443 INFO  [Log] About to begin executing following method : common.beforeClass 
+2014-11-27 18:59:10,588 INFO  [Log] Completed executing following method : common.beforeClass 
+2014-11-27 18:59:10,604 INFO  [Log] About to begin executing following method : TestExtendsCommon.sample 
+2014-11-27 18:59:15,008 INFO  [Log] Completed executing following method : TestExtendsCommon.sample 
+2014-11-27 18:59:15,008 INFO  [Log] Test Status: Pass 
+2014-11-27 18:59:15,008 INFO  [Log] About to begin executing following method : common.afterClass 
+2014-11-27 18:59:15,337 INFO  [Log] Completed executing following method : common.afterClass 
+2014-11-27 18:59:15,353 INFO  [Log] Completed executing test Default test 

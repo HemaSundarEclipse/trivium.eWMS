@@ -1,0 +1,13 @@
+<suite name="Test">  
+	<test name="Test">
+		<classes>
+			<class name="CurrentUserActionsOnReset"/>
+			   <methods>
+			       	<include name="addRoles" />
+			       	<include name="updateChannel" />
+			       	<include name="createCustBank" />
+			       	<include name="bankUser" />
+			   </methods>
+		</classes>
+	</test>  
+</suite>

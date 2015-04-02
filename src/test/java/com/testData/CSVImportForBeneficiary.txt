@@ -1,0 +1,2 @@
+Empfängercode;Name;Name 2;Straße;Ort;Postleitzahl;Land;Kontonummer;Konto (IBAN);BIC;Kreditinstitut (Zeile 1);Kreditinstitut (Zeile 2);Kreditinstitut (Zeile 3);Land;Verwendungszweck;Verwendungszweck;Verwendungszweck
+AZV BEN1;Muster1;Name2;Straße;sOrt;Postleitzahl;De;654987;DE99700202701234567890;HYVEDEMMXXX;UniCredit;Bank AG;80538 MUENCHEN;DE;VWZ1;VWZ2;VWZ2
